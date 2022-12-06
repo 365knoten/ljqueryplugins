@@ -14,7 +14,7 @@
     "gulp-concat": "^2.6.0",
     "gulp-declare": "0.3.0",
     "gulp-insert": "^0.5.0",
-    "gulp-jslint": "^0.2.2",
+    "gulp-jslint": "^1.0.10",
     "gulp-markdown": "^1.1.0",
     "gulp-prettify": "^0.5.0",
     "gulp-rename": "^1.2.2",
